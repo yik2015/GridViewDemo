@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GridViewDemo</string>
+
+    <array name="titlearr">
+        <item>洗车养护</item>
+        <item>保养打蜡</item>
+        <item>维修改装</item>
+        <item>装饰配件</item>
+        <item>查询违章</item>
+        <item>违章缴费</item>
+        <item>道路救援</item>
+        <item>我要代驾</item>
+    </array>
+</resources>
